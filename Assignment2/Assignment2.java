@@ -1,3 +1,7 @@
+/*
+David Binder
+24 - 9 - 2014
+*/
 import java.util.Scanner;
 public class Assignment2{
 /*
