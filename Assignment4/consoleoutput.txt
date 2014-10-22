@@ -1,0 +1,13 @@
+Yellow walls
+Hard Wood floor
+1 windows
+
+
+Purple walls
+Tiled floor
+0 windows
+
+
+White walls
+Carpeted floor
+3 windows
